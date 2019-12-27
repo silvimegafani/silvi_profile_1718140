@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Profile</string>
+    <string name="status">Informatics Engineer</string>
+    <string name="post">Posting</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="about">About Me</string>
+    <string name="follow">Follow</string>
+    <string name="language">language</string>
 </resources>

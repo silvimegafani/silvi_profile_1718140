@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="status">Teknik Informatika</string>
+    <string name="post">Postingan</string>
+    <string name="followers">Diikuti</string>
+    <string name="following">Mengikuti</string>
+    <string name="about">Tentangku</string>
+    <string name="follow">Ikuti</string>
+    <string name="language">Bahasa</string>
+</resources>
